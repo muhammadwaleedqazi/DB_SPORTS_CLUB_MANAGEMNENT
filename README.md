@@ -1,2 +1,7 @@
 # DB_SPORTS_CLUB_MANAGEMNENT
 A 2nd semester database systems project (sport_club_management)
+GROUP MEMBERS:
+MUHAMMAD WALEED QAZI(241898)
+MUHAMMAD ZAKRIA     (241856)
+AYAZ RAFIQUE        (241925)
+ANAS MEHBOOB        (241904)
